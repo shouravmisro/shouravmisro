@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shourav Misro</h1>
-<h3 align="center">A CSE student from Bangladesh</h3>
+
+
+
+<div align="center">
+<h1 align="left">Hi 👋, I'm Shourav Misro </h1>   
+
+![](https://github-stats-alpha.vercel.app/api?username=shouravmisro&cc=22272e&tc=37BCF6&ic=fff&bc=0000)  
+
+  
+</div>
+
+  <h3 align="right">A CSE student from Bangladesh</h3>
+
 
 
 
@@ -30,6 +41,11 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shouravmisro/count.svg?"  />
+
+  
+ ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+
+  
 </div>
 
 ###
@@ -39,6 +55,7 @@
   <img src="https://streak-stats.demolab.com?user=shouravmisro&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouravmisro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -93,4 +110,6 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouravmisro" alt="shouravmisro" /></a> </p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png">
+</p>
