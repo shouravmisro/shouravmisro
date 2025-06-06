@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shourav Misro</h1>
 <h3 align="center">A CSE student from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shouravmisro&label=Profile%20views&color=0e75b6&style=flat" alt="shouravmisro" /> </p>
-
 
 
 - 🔭 I’m currently working on [javascript learning](https://github.com/shouravmisro/javascript_learning)
