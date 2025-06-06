@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [javascript learning](https://github.com/shouravmisro/javascript_learning)
+- 🔭 I’m currently working on [javascript learning]([https://github.com/shouravmisro/javascript_learning](https://shouravmisro.github.io/javascript_learning/))
 
 - 🌱 I’m currently learning **Javascript ,SQA**
 
