@@ -109,6 +109,11 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/shouravmisro/shouravmisro/output/snake.svg" alt="Snake animation" />
+
+
+###
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png">
 </p>
