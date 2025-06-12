@@ -98,7 +98,7 @@
   <a href="www.facebook.com/shourav.05" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-</div> -->
+
 ###
 
 <picture>
@@ -106,7 +106,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shouravmisro/shouravmisro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shouravmisro/shouravmisro/output/pacman-contribution-graph.svg">
 </picture>
-
+</div> -->
 ###
 
 <img src="https://raw.githubusercontent.com/shouravmisro/shouravmisro/output/snake.svg" alt="Snake animation" />
