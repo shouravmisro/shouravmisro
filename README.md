@@ -111,6 +111,7 @@
 
 <img src="https://raw.githubusercontent.com/shouravmisro/shouravmisro/output/snake.svg" alt="Snake animation" />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shouravmisro&bg_color=000000&color=9e4c98&line=9e4c98&point=c4bc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
