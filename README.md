@@ -1,7 +1,7 @@
 
 
  
-<div align="center">
+<div align="center"> 
 <h1 align="left">Hi 👋, I'm Shourav Misro </h1>   
 
 ![](https://github-stats-alpha.vercel.app/api?username=shouravmisro&cc=22272e&tc=37BCF6&ic=fff&bc=0000)  
